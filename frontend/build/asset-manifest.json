@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c99a12d3.chunk.js",
+    "main.js.map": "/static/js/main.c99a12d3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.79ba6a20.js",
+    "runtime-main.js.map": "/static/js/runtime-main.79ba6a20.js.map",
+    "static/js/2.af3b77c8.chunk.js": "/static/js/2.af3b77c8.chunk.js",
+    "static/js/2.af3b77c8.chunk.js.map": "/static/js/2.af3b77c8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.af3b77c8.chunk.js.LICENSE.txt": "/static/js/2.af3b77c8.chunk.js.LICENSE.txt",
+    "static/media/404.050dbcd5.png": "/static/media/404.050dbcd5.png",
+    "static/media/Hawk.e646021a.png": "/static/media/Hawk.e646021a.png",
+    "static/media/tulay-logo.70824af4.png": "/static/media/tulay-logo.70824af4.png",
+    "static/media/tup.svg": "/static/media/tup.839ccebd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79ba6a20.js",
+    "static/js/2.af3b77c8.chunk.js",
+    "static/js/main.c99a12d3.chunk.js"
+  ]
+}
